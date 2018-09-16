@@ -1,0 +1,2 @@
+# GitNewRepo
+My first repo
